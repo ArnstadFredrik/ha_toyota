@@ -14,7 +14,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/pytoyoda/ha_toyota/issues",
   "requirements": [
-    "pytoyoda @ git+ssh://git@github.com:ArnstadFredrik/pytoyoda.git@realtime_electric_endpoint",
+    "git+https://github.com/ArnstadFredrik/pytoyoda.git@realtime_electric_endpoint#pytoyoda",
     "arrow"
   ],
   "version": "3.1.0"
